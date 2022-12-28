@@ -6,7 +6,8 @@ A full stack web application that get blogs and view the blog you like.
 
 ## How It's Made:
 **Tech used:** React, PostgreSQL, JavaScript, NodeJS, Express, CSS, Mui.
-- Blogs Page is a full stack web application following MVC architecture. It runs on Node.js and Express for the backend, React and MUI to render the views.
+- Blogs Page is a full stack web application following MVC architecture. It runs on Node.js and Express for the backend, React and MUI to render the views, and get the data from ProstgreSql database. 
+- The Blog Page implement pagination with a limit of 6 blogs shown at a time. This pagination is done on the server, the server will only return 6 blogs at a time. Created two view pages and multiple reusable components.
 
 
 ## Deployment
