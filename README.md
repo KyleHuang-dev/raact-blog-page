@@ -25,7 +25,7 @@ A full stack web application that get blogs and view the blog you like.
 
 
 ## Optimizations
-Features that we would like to add:
+Features that I would like to add:
 - Post search 
 - User like or unlike, and comment functions
 - Ability to login, upload and save the posts
